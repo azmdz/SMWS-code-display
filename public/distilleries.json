@@ -1,0 +1,1019 @@
+{
+  "1": {
+    "distillery": "Glenfarclas",
+    "region": "Speyside"
+  },
+  "2": {
+    "distillery": "Glenlivet",
+    "region": "Speyside"
+  },
+  "3": {
+    "distillery": "Bowmore",
+    "region": "Islay"
+  },
+  "4": {
+    "distillery": "Highland Park",
+    "region": "Islands"
+  },
+  "5": {
+    "distillery": "Auchentoshan",
+    "region": "Lowland"
+  },
+  "6": {
+    "distillery": "Macduff",
+    "region": "Highland",
+    "comment": "Glen Deveron"
+  },
+  "7": {
+    "distillery": "Longmorn",
+    "region": "Speyside"
+  },
+  "8": {
+    "distillery": "Tamdhu",
+    "region": "Speyside"
+  },
+  "9": {
+    "distillery": "Glen Grant",
+    "region": "Speyside"
+  },
+  "10": {
+    "distillery": "Bunnahabhain",
+    "region": "Islay"
+  },
+  "11": {
+    "distillery": "Tomatin",
+    "region": "Highland"
+  },
+  "12": {
+    "distillery": "BenRiach",
+    "region": "Speyside"
+  },
+  "13": {
+    "distillery": "Dalmore",
+    "region": "Highland"
+  },
+  "14": {
+    "distillery": "Talisker",
+    "region": "Islands"
+  },
+  "15": {
+    "distillery": "Glenfiddich",
+    "region": "Speyside"
+  },
+  "16": {
+    "distillery": "Glenturret",
+    "region": "Highland"
+  },
+  "17": {
+    "distillery": "Scapa",
+    "region": "Islands"
+  },
+  "18": {
+    "distillery": "Inchgower",
+    "region": "Speyside"
+  },
+  "19": {
+    "distillery": "Glen Garioch",
+    "region": "Highland"
+  },
+  "20": {
+    "distillery": "Inverleven",
+    "region": "Lowland",
+    "comment": "Demolished"
+  },
+  "21": {
+    "distillery": "Glenglassaugh",
+    "region": "Highland"
+  },
+  "22": {
+    "distillery": "Glenkinchie",
+    "region": "Lowland"
+  },
+  "23": {
+    "distillery": "Bruichladdich",
+    "region": "Islay"
+  },
+  "24": {
+    "distillery": "Macallan",
+    "region": "Speyside"
+  },
+  "25": {
+    "distillery": "Rosebank",
+    "region": "Lowland"
+  },
+  "26": {
+    "distillery": "Clynelish",
+    "region": "Highland"
+  },
+  "27": {
+    "distillery": "Springbank",
+    "region": "Campbeltown"
+  },
+  "28": {
+    "distillery": "Tullibardine",
+    "region": "Highland"
+  },
+  "29": {
+    "distillery": "Laphroaig",
+    "region": "Islay"
+  },
+  "30": {
+    "distillery": "Glenrothes",
+    "region": "Speyside"
+  },
+  "31": {
+    "distillery": "Isle of Jura",
+    "region": "Islands"
+  },
+  "32": {
+    "distillery": "Edradour",
+    "region": "Highland"
+  },
+  "33": {
+    "distillery": "Ardbeg",
+    "region": "Islay"
+  },
+  "34": {
+    "distillery": "Tamnavulin",
+    "region": "Speyside"
+  },
+  "35": {
+    "distillery": "Glen Moray",
+    "region": "Speyside"
+  },
+  "36": {
+    "distillery": "Benrinnes",
+    "region": "Speyside"
+  },
+  "37": {
+    "distillery": "Cragganmore",
+    "region": "Speyside"
+  },
+  "38": {
+    "distillery": "Caperdonich",
+    "region": "Speyside",
+    "comment": "Demolished"
+  },
+  "39": {
+    "distillery": "Linkwood",
+    "region": "Speyside"
+  },
+  "40": {
+    "distillery": "Balvenie",
+    "region": "Speyside"
+  },
+  "41": {
+    "distillery": "Dailuaine",
+    "region": "Speyside"
+  },
+  "42": {
+    "distillery": "Tobermory",
+    "region": "Islands",
+    "comment": "Includes Ledaig (peated)"
+  },
+  "43": {
+    "distillery": "Port Ellen",
+    "region": "Islay"
+  },
+  "44": {
+    "distillery": "Craigellachie",
+    "region": "Speyside"
+  },
+  "45": {
+    "distillery": "Dallas Dhu",
+    "region": "Speyside",
+    "comment": "Closed / museum"
+  },
+  "46": {
+    "distillery": "Glenlossie",
+    "region": "Speyside"
+  },
+  "47": {
+    "distillery": "Benromach",
+    "region": "Speyside"
+  },
+  "48": {
+    "distillery": "Balmenach",
+    "region": "Speyside"
+  },
+  "49": {
+    "distillery": "St. Magdalene",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "50": {
+    "distillery": "Bladnoch",
+    "region": "Lowland"
+  },
+  "51": {
+    "distillery": "Bushmills",
+    "region": "Northern Ireland"
+  },
+  "52": {
+    "distillery": "Old Pulteney",
+    "region": "Highland"
+  },
+  "53": {
+    "distillery": "Caol Ila",
+    "region": "Islay"
+  },
+  "54": {
+    "distillery": "Aberlour",
+    "region": "Speyside"
+  },
+  "55": {
+    "distillery": "Royal Brackla",
+    "region": "Highland"
+  },
+  "56": {
+    "distillery": "Coleburn",
+    "region": "Speyside",
+    "comment": "Closed"
+  },
+  "57": {
+    "distillery": "Glen Mhor",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "58": {
+    "distillery": "Strathisla",
+    "region": "Speyside"
+  },
+  "59": {
+    "distillery": "Teaninich",
+    "region": "Highland"
+  },
+  "60": {
+    "distillery": "Aberfeldy",
+    "region": "Highland"
+  },
+  "61": {
+    "distillery": "Brora",
+    "region": "Highland"
+  },
+  "62": {
+    "distillery": "Glenlochy",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "63": {
+    "distillery": "Glentauchers",
+    "region": "Speyside"
+  },
+  "64": {
+    "distillery": "Mannochmore",
+    "region": "Speyside"
+  },
+  "65": {
+    "distillery": "Imperial",
+    "region": "Speyside",
+    "comment": "Demolished"
+  },
+  "66": {
+    "distillery": "Ardmore",
+    "region": "Highland"
+  },
+  "67": {
+    "distillery": "Banff",
+    "region": "Speyside",
+    "comment": "Demolished"
+  },
+  "68": {
+    "distillery": "Blair Athol",
+    "region": "Highland"
+  },
+  "69": {
+    "distillery": "Glen Albyn",
+    "region": "Highland",
+    "comment": "Demolished"
+  },
+  "70": {
+    "distillery": "Balblair",
+    "region": "Highland"
+  },
+  "71": {
+    "distillery": "Glenburgie",
+    "region": "Speyside"
+  },
+  "72": {
+    "distillery": "Miltonduff",
+    "region": "Speyside"
+  },
+  "73": {
+    "distillery": "Aultmore",
+    "region": "Speyside"
+  },
+  "74": {
+    "distillery": "North Port",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "75": {
+    "distillery": "Glenury / Glenury Royal",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "76": {
+    "distillery": "Mortlach",
+    "region": "Speyside"
+  },
+  "77": {
+    "distillery": "Glen Ord",
+    "region": "Highland"
+  },
+  "78": {
+    "distillery": "Ben Nevis",
+    "region": "Highland"
+  },
+  "79": {
+    "distillery": "Deanston",
+    "region": "Highland"
+  },
+  "80": {
+    "distillery": "Glen Spey",
+    "region": "Speyside"
+  },
+  "81": {
+    "distillery": "Glen Keith",
+    "region": "Speyside"
+  },
+  "82": {
+    "distillery": "Glencadam",
+    "region": "Highland"
+  },
+  "83": {
+    "distillery": "Convalmore",
+    "region": "Speyside",
+    "comment": "Closed"
+  },
+  "84": {
+    "distillery": "Glendullan",
+    "region": "Speyside"
+  },
+  "85": {
+    "distillery": "Glen Elgin",
+    "region": "Speyside"
+  },
+  "86": {
+    "distillery": "Glenesk",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "87": {
+    "distillery": "Millburn",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "88": {
+    "distillery": "Speyburn",
+    "region": "Speyside"
+  },
+  "89": {
+    "distillery": "Tomintoul",
+    "region": "Speyside"
+  },
+  "90": {
+    "distillery": "Pittyvaich",
+    "region": "Speyside",
+    "comment": "Closed"
+  },
+  "91": {
+    "distillery": "Dufftown",
+    "region": "Speyside"
+  },
+  "92": {
+    "distillery": "Lochside",
+    "region": "Highland",
+    "comment": "Demolished"
+  },
+  "93": {
+    "distillery": "Glen Scotia",
+    "region": "Campbeltown"
+  },
+  "94": {
+    "distillery": "Fettercairn",
+    "region": "Highland"
+  },
+  "95": {
+    "distillery": "Auchroisk",
+    "region": "Speyside"
+  },
+  "96": {
+    "distillery": "GlenDronach",
+    "region": "Highland"
+  },
+  "97": {
+    "distillery": "Littlemill",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "98": {
+    "distillery": "Inverleven",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "99": {
+    "distillery": "Glenugie",
+    "region": "Highland",
+    "comment": "Closed"
+  },
+  "100": {
+    "distillery": "Strathmill",
+    "region": "Speyside"
+  },
+  "101": {
+    "distillery": "Knockando",
+    "region": "Speyside"
+  },
+  "102": {
+    "distillery": "Dalwhinnie",
+    "region": "Highland"
+  },
+  "103": {
+    "distillery": "Royal Lochnagar",
+    "region": "Highland"
+  },
+  "104": {
+    "distillery": "Glenburgie (Glencraig)",
+    "region": "Speyside"
+  },
+  "105": {
+    "distillery": "Tormore",
+    "region": "Speyside"
+  },
+  "106": {
+    "distillery": "Cardhu",
+    "region": "Speyside"
+  },
+  "107": {
+    "distillery": "Glenallachie",
+    "region": "Speyside"
+  },
+  "108": {
+    "distillery": "Allt-a-Bhainne",
+    "region": "Speyside"
+  },
+  "109": {
+    "distillery": "Miltonduff (Mosstowie)",
+    "region": "Speyside"
+  },
+  "110": {
+    "distillery": "Oban",
+    "region": "Highland"
+  },
+  "111": {
+    "distillery": "Lagavulin",
+    "region": "Islay"
+  },
+  "112": {
+    "distillery": "Loch Lomond (Inchmurrin / Inchmoan)",
+    "region": "Highland",
+    "comment": "Inchmurrin is unpeated, Inchmoan is peated"
+  },
+  "113": {
+    "distillery": "Braeval (Braes of Glenlivet)",
+    "region": "Speyside"
+  },
+  "114": {
+    "distillery": "Springbank (Longrow)",
+    "region": "Campbeltown"
+  },
+  "115": {
+    "distillery": "Knockdhu (AnCnoc)",
+    "region": "Speyside"
+  },
+  "116": {
+    "distillery": "Yoichi",
+    "region": "Japan"
+  },
+  "117": {
+    "distillery": "Cooley (Unpeated)",
+    "region": "Ireland"
+  },
+  "118": {
+    "distillery": "Cooley / Connemara (Peated)",
+    "region": "Ireland"
+  },
+  "119": {
+    "distillery": "Yamazaki",
+    "region": "Japan"
+  },
+  "120": {
+    "distillery": "Hakushu",
+    "region": "Japan"
+  },
+  "121": {
+    "distillery": "Isle of Arran",
+    "region": "Islands"
+  },
+  "122": {
+    "distillery": "Loch Lomond (Croftengea)",
+    "region": "Highland",
+    "comment": "Croftengea is heavily peated"
+  },
+  "123": {
+    "distillery": "Glengoyne",
+    "region": "Highland"
+  },
+  "124": {
+    "distillery": "Miyagikyo",
+    "region": "Japan"
+  },
+  "125": {
+    "distillery": "Glenmorangie",
+    "region": "Highland"
+  },
+  "126": {
+    "distillery": "Springbank (Hazelburn)",
+    "region": "Campbeltown"
+  },
+  "127": {
+    "distillery": "Bruichladdich (Port Charlotte)",
+    "region": "Islay"
+  },
+  "128": {
+    "distillery": "Penderyn",
+    "region": "Wales"
+  },
+  "129": {
+    "distillery": "Kilchoman",
+    "region": "Islay"
+  },
+  "130": {
+    "distillery": "Chichibu",
+    "region": "Japan",
+    "comment": "Chichibu 1"
+  },
+  "131": {
+    "distillery": "Hanyu",
+    "region": "Japan",
+    "comment": "Demolished"
+  },
+  "132": {
+    "distillery": "Karuizawa",
+    "region": "Japan",
+    "comment": "Demolished"
+  },
+  "133": {
+    "distillery": "Westland",
+    "region": "Washington, USA"
+  },
+  "134": {
+    "distillery": "Paul John",
+    "region": "India"
+  },
+  "135": {
+    "distillery": "Loch Lomond",
+    "region": "Highland"
+  },
+  "136": {
+    "distillery": "Eden Mill",
+    "region": "Lowland"
+  },
+  "137": {
+    "distillery": "St. George’s (The English Whisky Co.)",
+    "region": "England"
+  },
+  "138": {
+    "distillery": "Nantou",
+    "region": "Taiwan"
+  },
+  "139": {
+    "distillery": "Kavalan",
+    "region": "Taiwan"
+  },
+  "140": {
+    "distillery": "Balcones",
+    "region": "Texas, USA"
+  },
+  "141": {
+    "distillery": "Fary Lochan",
+    "region": "Denmark"
+  },
+  "142": {
+    "distillery": "Breuckelen Distilling",
+    "region": "New York, USA"
+  },
+  "143": {
+    "distillery": "Copperworks Distilling Co.",
+    "region": "Washington, USA"
+  },
+  "144": {
+    "distillery": "High Coast Distillery",
+    "region": "Sweden",
+    "comment": "Formerly Box Whisky"
+  },
+  "145": {
+    "distillery": "Smögen Whisky",
+    "region": "Sweden"
+  },
+  "146": {
+    "distillery": "Cotswolds",
+    "region": "England"
+  },
+  "147": {
+    "distillery": "Archie Rose",
+    "region": "Australia"
+  },
+  "148": {
+    "distillery": "Starward",
+    "region": "Australia"
+  },
+  "149": {
+    "distillery": "Ardnamurchan",
+    "region": "Highland"
+  },
+  "150": {
+    "distillery": "West Cork Distillers",
+    "region": "Ireland"
+  },
+  "151": {
+    "distillery": "Mackmyra",
+    "region": "Sweden"
+  },
+  "152": {
+    "distillery": "Shelter Point",
+    "region": "Canada"
+  },
+  "153": {
+    "distillery": "Thy Whisky",
+    "region": "Denmark"
+  },
+  "154": {
+    "distillery": "Mosgaard Whisky",
+    "region": "Denmark"
+  },
+  "155": {
+    "distillery": "Milk & Honey Distillery",
+    "region": "Israel"
+  },
+  "156": {
+    "distillery": "Glasgow Distillery",
+    "region": "Lowland"
+  },
+  "157": {
+    "distillery": "Distillerie de Warenghem",
+    "region": "France",
+    "comment": "Armorik"
+  },
+  "158": {
+    "distillery": "Yuza Distillery",
+    "region": "Japan"
+  },
+  "159": {
+    "distillery": "Mars Shinshu",
+    "region": "Japan"
+  },
+  "160": {
+    "distillery": "Mars Tsunuki",
+    "region": "Japan"
+  },
+  "161": {
+    "distillery": "Nc'nean Distillery",
+    "region": "Scotland"
+  },
+  "162": {
+    "distillery": "Isle of Raasay",
+    "region": "Scotland"
+  },
+  "163": {
+    "distillery": "Isle of Harris Distillery",
+    "region": "Scotland"
+  },
+  "164": {
+    "distillery": "Penderyn (double distilled)",
+    "region": "Wales"
+  },
+  "165": {
+    "distillery": "Wolfburn (peated)",
+    "region": "Scotland"
+  },
+  "166": {
+    "distillery": "Torabhaig Distillery",
+    "region": "Scotland"
+  },
+  "167": {
+    "distillery": "Clydeside Distillery",
+    "region": "Scotland"
+  },
+  "168": {
+    "distillery": "InchDairnie Distillery (KinGlassie)",
+    "region": "Scotland"
+  },
+  "G1": {
+    "distillery": "North British",
+    "region": "Lowland"
+  },
+  "G2": {
+    "distillery": "Carsebridge",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "G3": {
+    "distillery": "Caledonian",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "G4": {
+    "distillery": "Cameronbridge",
+    "region": "Lowland"
+  },
+  "G5": {
+    "distillery": "Invergordon",
+    "region": "Highland"
+  },
+  "G6": {
+    "distillery": "Port Dundas",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "G7": {
+    "distillery": "Girvan",
+    "region": "Lowland"
+  },
+  "G8": {
+    "distillery": "Cambus",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "G9": {
+    "distillery": "Loch Lomond",
+    "region": "Highland"
+  },
+  "G10": {
+    "distillery": "Strathclyde",
+    "region": "Lowland"
+  },
+  "G11": {
+    "distillery": "Nikka Coffey Grain",
+    "region": "Japan"
+  },
+  "G12": {
+    "distillery": "Nikka Coffey Malt",
+    "region": "Japan",
+    "comment": "This is malt whisky, but still tagged as grain"
+  },
+  "G13": {
+    "distillery": "Chita",
+    "region": "Japan"
+  },
+  "G14": {
+    "distillery": "Dumbarton",
+    "region": "Lowland",
+    "comment": "Closed"
+  },
+  "G15": {
+    "distillery": "Loch Lomond (Rhosdhu)",
+    "region": "Highland"
+  },
+  "G16": {
+    "distillery": "Glasgow Distillery",
+    "region": "Lowland",
+    "comment": "58 % corn, 21 % malted barley, 21 % unmalted rye"
+  },
+  "B1": {
+    "distillery": "Heaven Hill",
+    "region": "Kentucky, USA"
+  },
+  "B2": {
+    "distillery": "New Bernheim",
+    "region": "Kentucky, USA"
+  },
+  "B3": {
+    "distillery": "Rock Town",
+    "region": "Arkansas, USA"
+  },
+  "B4": {
+    "distillery": "FEW Spirits",
+    "region": "Illinois, USA"
+  },
+  "B5": {
+    "distillery": "George Dickel (Cascade Hollow)",
+    "region": "Tennessee, USA"
+  },
+  "B6": {
+    "distillery": "Finger Lakes Distilling",
+    "region": "New York, USA"
+  },
+  "B7": {
+    "distillery": "MGP (Midwest Grain Products)",
+    "region": "Indiana, USA"
+  },
+  "B8": {
+    "distillery": "Woodinville Whiskey Co.",
+    "region": "Washington, USA"
+  },
+  "B9": {
+    "distillery": "Wilderness Trail Distillery",
+    "region": "Kentucky, USA"
+  },
+  "RW1": {
+    "distillery": "FEW Spirits",
+    "region": "Illinois, USA"
+  },
+  "RW2": {
+    "distillery": "Finger Lakes Distilling",
+    "region": "New York, USA"
+  },
+  "RW3": {
+    "distillery": "New York Distilling Co.",
+    "region": "New York, USA"
+  },
+  "RW4": {
+    "distillery": "Peerless Distillery",
+    "region": "Kentucky, USA"
+  },
+  "RW5": {
+    "distillery": "MGP",
+    "region": "Indiana, USA",
+    "comment": "Lux Row Distillers sourcing from MGP"
+  },
+  "RW6": {
+    "distillery": "Kyrö Distillery",
+    "region": "FInland"
+  },
+  "RW7": {
+    "distillery": "Journeyman Distillery",
+    "region": "Michigan, USA"
+  },
+  "RW8": {
+    "distillery": "Catoctin Creek Distilling Co.",
+    "region": "Virginia, USA"
+  },
+  "RW9": {
+    "distillery": "Wilderness Trail Distillery",
+    "region": "Kentucky, USA"
+  },
+  "CW1": {
+    "distillery": "Heaven Hill Distillery",
+    "region": "Kentucky, USA"
+  },
+  "CW2": {
+    "distillery": "Balcones",
+    "region": "Texas, USA"
+  },
+  "R1": {
+    "distillery": "Monymusk",
+    "region": "Jamaica"
+  },
+  "R2": {
+    "distillery": "Demerara Distillers (El Dorado)",
+    "region": "Guyana"
+  },
+  "R3": {
+    "distillery": "West Indies Rum",
+    "region": "Barbados"
+  },
+  "R4": {
+    "distillery": "Trinidad Distillers (Angostura)",
+    "region": "Trinidad"
+  },
+  "R5": {
+    "distillery": "Long Pond",
+    "region": "Jamaica"
+  },
+  "R6": {
+    "distillery": "Foursquare",
+    "region": "Barbados"
+  },
+  "R7": {
+    "distillery": "Hampden",
+    "region": "Jamaica"
+  },
+  "R8": {
+    "distillery": "Compañía Licorera de Nicaragua (Flor de Caña)",
+    "region": "Nicaragua"
+  },
+  "R9": {
+    "distillery": "Varela Hermanos (Ron Abuelo)",
+    "region": "Panama"
+  },
+  "R10": {
+    "distillery": "Trinidad Distiller’s",
+    "region": "Trinidad"
+  },
+  "R11": {
+    "distillery": "Worthy Park",
+    "region": "Jamaica"
+  },
+  "R12": {
+    "distillery": "Travellers",
+    "region": "Belize"
+  },
+  "R13": {
+    "distillery": "Caroni",
+    "region": "Trinidad"
+  },
+  "R14": {
+    "distillery": "Uitvlugt",
+    "region": "Guyana"
+  },
+  "A1": {
+    "distillery": "Chateau de Lacaze",
+    "region": "France"
+  },
+  "A2": {
+    "distillery": "Domaine Laguille",
+    "region": "France"
+  },
+  "A3": {
+    "distillery": "J. Goudoulin (Veuve Goudoulin)",
+    "region": "France"
+  },
+  "A4": {
+    "distillery": "Domaine d’Espérance",
+    "region": "France"
+  },
+  "A5": {
+    "distillery": "Chateau de Laubade",
+    "region": "France"
+  },
+  "A6": {
+    "distillery": "Domaine Lasalle",
+    "region": "France"
+  },
+  "A7": {
+    "distillery": "Domaine Lasalle",
+    "region": "France"
+  },
+  "A8": {
+    "distillery": "Domaine de Cavaillon",
+    "region": "France"
+  },
+  "A9": {
+    "distillery": "Domaine de Saurine",
+    "region": "France"
+  },
+  "C1": {
+    "distillery": "Camus",
+    "region": "France"
+  },
+  "C2": {
+    "distillery": "Domaine de Chez Guérive",
+    "region": "France",
+    "comment": "Cognac Petite Champagne Controlée"
+  },
+  "C3": {
+    "distillery": "Louis Royer",
+    "region": "France",
+    "comment": "Cognac Grande Champagne Controlée"
+  },
+  "C4": {
+    "distillery": "Distillery D’Aumagne",
+    "region": "France",
+    "comment": "Cognac Grande Champagne Controlée"
+  },
+  "C5": {
+    "distillery": "Tiffon Cognac",
+    "region": "France",
+    "comment": "Cognac Grande Champagne Controlée"
+  },
+  "C6": {
+    "distillery": "M & H Bonneau",
+    "region": "France",
+    "comment": "Cognac Borderies Controlée"
+  },
+  "C7": {
+    "distillery": "Guy Rateau",
+    "region": "France",
+    "comment": "Cognac Petite Champagne Controlée"
+  },
+  "C8": {
+    "distillery": "Marie C. Bodit",
+    "region": "France",
+    "comment": "Cognac Grande Champagne Controlée"
+  },
+  "C9": {
+    "distillery": "Robert Audebeau",
+    "region": "France",
+    "comment": "Cognac Petite Champagne Controlée"
+  },
+  "GN1": {
+    "distillery": "Glasgow Distillery Company",
+    "region": "Scotland"
+  },
+  "GN2": {
+    "distillery": "Strathearn Distillers",
+    "region": "Scotland"
+  },
+  "GN3": {
+    "distillery": "The Borders Distillery",
+    "region": "Scotland"
+  },
+  "GN4": {
+    "distillery": "Boatyard Distillery",
+    "region": "Northern Ireland"
+  },
+  "GN5": {
+    "distillery": "Glenrinnes",
+    "region": "Scotland"
+  },
+  "GN6": {
+    "distillery": "Holyrood Distillery",
+    "region": "Edinburgh, Scotland"
+  },
+  "GN7": {
+    "distillery": "Cotswolds",
+    "region": "England"
+  }
+}

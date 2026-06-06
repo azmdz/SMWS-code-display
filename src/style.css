@@ -1,0 +1,34 @@
+.smws-input-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  width: 100%;
+}
+
+.smws-input-wrapper #tag_code_input {
+  width: 100%;
+}
+
+.smws-clear-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #aaa;
+  font-size: 1.8em;
+  padding: 0;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.smws-clear-btn:hover {
+  color: #333;
+}
+
+.smws-distillery-badge {
+  display: block;
+  font-size: 0.8em;
+  font-weight: normal;
+  color: #666;
+  line-height: 0.8;
+  margin-bottom: 0.5em;
+}

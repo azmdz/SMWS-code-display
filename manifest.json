@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "SMWS Decoder JP",
+  "description": "Decodes SMWS distillery codes and enhances the browsing experience on SMWS Japan.",
+  "content_scripts": [
+    {
+      "matches": ["*://smwsjapan.com/*", "*://www.smwsjapan.com/*"],
+      "js": ["src/content.js"],
+      "css": ["src/style.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["distilleries.json"],
+      "matches": ["*://smwsjapan.com/*", "*://www.smwsjapan.com/*"]
+    }
+  ]
+}

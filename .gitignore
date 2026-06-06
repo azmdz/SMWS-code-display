@@ -1,0 +1,7 @@
+node_modules
+dist
+tests/.userdata
+test-results
+playwright-report
+html
+.DS_Store

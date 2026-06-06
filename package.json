@@ -1,0 +1,18 @@
+{
+  "name": "smws-code-display",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "zip": "vite build && node build.cjs",
+    "test": "vite build && playwright test",
+    "test:reset-auth": "rm -rf tests/.userdata"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.4.0",
+    "@playwright/test": "^1.60.0",
+    "vite": "^5.0.0"
+  }
+}
