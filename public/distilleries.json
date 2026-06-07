@@ -167,7 +167,7 @@
     "region": "Speyside"
   },
   "42": {
-    "distillery": "Tobermory",
+    "distillery": "Tobermory, Ledaig",
     "region": "Islands",
     "comment": "Includes Ledaig (peated)"
   },
@@ -309,7 +309,7 @@
     "comment": "Closed"
   },
   "75": {
-    "distillery": "Glenury / Glenury Royal",
+    "distillery": "Glenury Royal",
     "region": "Highland",
     "comment": "Closed"
   },
@@ -434,7 +434,7 @@
     "region": "Highland"
   },
   "104": {
-    "distillery": "Glenburgie (Glencraig)",
+    "distillery": "Glencraig",
     "region": "Speyside"
   },
   "105": {
@@ -454,7 +454,7 @@
     "region": "Speyside"
   },
   "109": {
-    "distillery": "Miltonduff (Mosstowie)",
+    "distillery": "Mosstowie",
     "region": "Speyside"
   },
   "110": {
@@ -475,7 +475,7 @@
     "region": "Speyside"
   },
   "114": {
-    "distillery": "Springbank (Longrow)",
+    "distillery": "Longrow",
     "region": "Campbeltown"
   },
   "115": {
@@ -487,11 +487,11 @@
     "region": "Japan"
   },
   "117": {
-    "distillery": "Cooley (Unpeated)",
+    "distillery": "Cooley",
     "region": "Ireland"
   },
   "118": {
-    "distillery": "Cooley / Connemara (Peated)",
+    "distillery": "Cooley / Connemara",
     "region": "Ireland"
   },
   "119": {
@@ -503,11 +503,11 @@
     "region": "Japan"
   },
   "121": {
-    "distillery": "Isle of Arran",
+    "distillery": "Arran",
     "region": "Islands"
   },
   "122": {
-    "distillery": "Loch Lomond (Croftengea)",
+    "distillery": "Croftengea",
     "region": "Highland",
     "comment": "Croftengea is heavily peated"
   },
@@ -524,11 +524,11 @@
     "region": "Highland"
   },
   "126": {
-    "distillery": "Springbank (Hazelburn)",
+    "distillery": "Hazelburn",
     "region": "Campbeltown"
   },
   "127": {
-    "distillery": "Bruichladdich (Port Charlotte)",
+    "distillery": "Port Charlotte",
     "region": "Islay"
   },
   "128": {
@@ -571,7 +571,7 @@
     "region": "Lowland"
   },
   "137": {
-    "distillery": "St. George’s (The English Whisky Co.)",
+    "distillery": "St. George’s",
     "region": "England"
   },
   "138": {
@@ -644,11 +644,11 @@
     "region": "Denmark"
   },
   "155": {
-    "distillery": "Milk & Honey Distillery",
+    "distillery": "Milk & Honey",
     "region": "Israel"
   },
   "156": {
-    "distillery": "Glasgow Distillery",
+    "distillery": "Glasgow",
     "region": "Lowland"
   },
   "157": {
@@ -657,7 +657,7 @@
     "comment": "Armorik"
   },
   "158": {
-    "distillery": "Yuza Distillery",
+    "distillery": "Yuza",
     "region": "Japan"
   },
   "159": {
@@ -669,7 +669,7 @@
     "region": "Japan"
   },
   "161": {
-    "distillery": "Nc'nean Distillery",
+    "distillery": "Nc'nean",
     "region": "Scotland"
   },
   "162": {
@@ -677,7 +677,7 @@
     "region": "Scotland"
   },
   "163": {
-    "distillery": "Isle of Harris Distillery",
+    "distillery": "Isle of Harris",
     "region": "Scotland"
   },
   "164": {
@@ -685,19 +685,19 @@
     "region": "Wales"
   },
   "165": {
-    "distillery": "Wolfburn (peated)",
+    "distillery": "Wolfburn",
     "region": "Scotland"
   },
   "166": {
-    "distillery": "Torabhaig Distillery",
+    "distillery": "Torabhaig",
     "region": "Scotland"
   },
   "167": {
-    "distillery": "Clydeside Distillery",
+    "distillery": "Clydeside",
     "region": "Scotland"
   },
   "168": {
-    "distillery": "InchDairnie Distillery (KinGlassie)",
+    "distillery": "InchDairnie (KinGlassie)",
     "region": "Scotland"
   },
   "G1": {
@@ -737,7 +737,7 @@
     "comment": "Closed"
   },
   "G9": {
-    "distillery": "Loch Lomond",
+    "distillery": "Loch Lomond (Grain)",
     "region": "Highland"
   },
   "G10": {
@@ -788,7 +788,7 @@
     "region": "Illinois, USA"
   },
   "B5": {
-    "distillery": "George Dickel (Cascade Hollow)",
+    "distillery": "George Dickel",
     "region": "Tennessee, USA"
   },
   "B6": {
@@ -829,7 +829,7 @@
     "comment": "Lux Row Distillers sourcing from MGP"
   },
   "RW6": {
-    "distillery": "Kyrö Distillery",
+    "distillery": "Kyrö",
     "region": "FInland"
   },
   "RW7": {
@@ -845,7 +845,7 @@
     "region": "Kentucky, USA"
   },
   "CW1": {
-    "distillery": "Heaven Hill Distillery",
+    "distillery": "Heaven Hill",
     "region": "Kentucky, USA"
   },
   "CW2": {
