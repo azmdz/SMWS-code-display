@@ -11,7 +11,18 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://smwsjapan.com/*", "*://www.smwsjapan.com/*"],
+      "matches": [
+        "https://smwsjapan.com/product/list*",
+        "https://smwsjapan.com/*/product/*",
+        "https://smwsjapan.com/account/favorite/list*",
+        "https://smwsjapan.com/account/top*",
+        "https://smwsjapan.com/account/order-history/detail/*",
+        "https://www.smwsjapan.com/product/list*",
+        "https://www.smwsjapan.com/*/product/*",
+        "https://www.smwsjapan.com/account/favorite/list*",
+        "https://www.smwsjapan.com/account/top*",
+        "https://www.smwsjapan.com/account/order-history/detail/*"
+      ],
       "js": ["src/content.js"],
       "css": ["src/style.css"],
       "run_at": "document_idle"
@@ -20,7 +31,7 @@
   "web_accessible_resources": [
     {
       "resources": ["distilleries.json"],
-      "matches": ["*://smwsjapan.com/*", "*://www.smwsjapan.com/*"]
+      "matches": ["https://smwsjapan.com/*", "https://www.smwsjapan.com/*"]
     }
   ]
 }
