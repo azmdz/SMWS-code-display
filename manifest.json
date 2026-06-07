@@ -1,7 +1,14 @@
 {
   "manifest_version": 3,
   "name": "SMWS Decoder JP",
-  "description": "Decodes SMWS distillery codes and enhances the browsing experience on SMWS Japan.",
+  "description": "SMWS JPのサイト上で蒸留所名を表示するための非公式拡張機能です。本拡張機能に関するお問い合わせは、SMWS Japan様ではなく開発者までお願いいたします。",
+  "homepage_url": "https://github.com/azmdz/SMWS-code-display",
+  "action": {
+    "default_title": "SMWS Decoder JP"
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
   "content_scripts": [
     {
       "matches": ["*://smwsjapan.com/*", "*://www.smwsjapan.com/*"],
