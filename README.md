@@ -1,7 +1,7 @@
 # SMWS Decoder JP
 
 SMWS JPのサイト上で蒸留所名を表示するための非公式拡張機能です。  
-本拡張機能に関するお問い合わせは、SMWS Japan様ではなく開発者までお願いいたします。
+本拡張機能に関するお問い合わせは、SMWS Japan様ではなく開発者(X: @dzgm)までお願いいたします。
 
 ---
 
@@ -10,9 +10,23 @@ SMWS JPのサイト上で蒸留所名を表示するための非公式拡張機�
 - **蒸留所名の自動表示** — 商品一覧・商品詳細・お気に入り・マイページ・注文詳細のコードに蒸留所名を表示
 - **検索ボックスの改善** — 蒸留所コードの絞り込みでの蒸留所名表示、およびクリアボタンの追加
 
+## 参考サムネイル
+
+### 商品一覧
+
+![商品一覧で蒸留所名を表示している画面](public/images/list_view.jpg)
+
+### 商品詳細
+
+![商品詳細で蒸留所名を表示している画面](public/images/detail_view.jpg)
+
 ## インストール
 
-### リリース版（推奨）
+### Chrome Web Store からインストール（推奨）
+
+[Chrome Web Store の配布ページ](https://chromewebstore.google.com/detail/smws-decoder-jp/ibglgjkokeogkjnkcnlofgmncicmfkbh?authuser=0&hl=ja) からインストールできます。
+
+### リリース版（手動インストール）
 
 1. [Releases](../../releases) から最新の `smws-extension.zip` をダウンロード
 2. Chrome で `chrome://extensions` を開く
