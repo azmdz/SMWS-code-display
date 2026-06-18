@@ -8,7 +8,7 @@ const TITLE_SELECTORS = [
 ].join(', ');
 
 function getDistilleryName(codeText) {
-  const match = codeText.trim().match(/^([A-Z]*\d+)\./);
+  const match = codeText.trim().match(/(?:^|[^A-Za-z0-9])([A-Z]*\d+)\./);
   if (!match) return null;
   const entry = distilleries[match[1]];
   return entry ? entry.distillery : null;
@@ -34,11 +34,12 @@ function processOptions(container) {
     const name = getDistilleryName(opt.value);
     if (!name) continue;
     // select: text プロパティが表示テキスト
-    // datalist: label 属性で候補表示、value は入力値として保持
+    // datalist: label 属性は Chrome で値とラベルが二段表示になるため使わない
     if (isSelect) {
-      opt.text = name;
+      opt.text = `${opt.value}${name}`;
     } else {
-      opt.label = name;
+      opt.removeAttribute('label');
+      opt.textContent = `${opt.value}${name}`;
     }
   }
 }
