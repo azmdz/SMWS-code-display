@@ -77,6 +77,7 @@ git push origin main --tags
 
 | ページ     | URL                               |
 | ---------- | --------------------------------- |
+| トップ     | `/`                               |
 | 商品一覧   | `/product/list`                   |
 | 商品詳細   | `/*/product/*`                    |
 | お気に入り | `/account/favorite/list`          |
