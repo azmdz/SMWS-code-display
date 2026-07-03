@@ -2,6 +2,7 @@ let distilleries = null;
 
 const TITLE_SELECTORS = [
   '.c-product-body__title-name',
+  '.c-typeListProduct-head__title-name',
   '.p-productDetaiMain-head__title-name',
   '.c-productUser-body__title-name',
   '.m-userProductSect-itemDetail__title',
