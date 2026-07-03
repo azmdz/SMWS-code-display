@@ -1,0 +1,129 @@
+:root {
+  --smws-border: #e3e3e3;
+  --smws-muted: #888;
+  --smws-accent: #7a1f2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 360px;
+  max-height: 520px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic',
+    sans-serif;
+  font-size: 13px;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.smws-popup__header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  background: #fff;
+  border-bottom: 1px solid var(--smws-border);
+}
+
+.smws-popup__search {
+  flex: 1;
+  padding: 6px 10px;
+  border: 1px solid var(--smws-border);
+  border-radius: 6px;
+  font-size: 13px;
+}
+
+.smws-popup__search:focus {
+  outline: none;
+  border-color: var(--smws-accent);
+}
+
+.smws-popup__count {
+  flex-shrink: 0;
+  color: var(--smws-muted);
+  font-size: 11px;
+}
+
+.smws-popup__table {
+  display: block;
+  overflow-y: auto;
+  flex: 1;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.smws-popup__table thead,
+.smws-popup__table tbody,
+.smws-popup__table tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.smws-popup__table thead {
+  position: sticky;
+  top: 0;
+  background: #fafafa;
+  z-index: 1;
+}
+
+.smws-popup__table th,
+.smws-popup__table td {
+  text-align: left;
+  padding: 6px 12px;
+  border-bottom: 1px solid var(--smws-border);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.smws-popup__table th {
+  font-size: 11px;
+  color: var(--smws-muted);
+  font-weight: 600;
+}
+
+.smws-popup__table tbody tr:hover {
+  background: #f5f0f0;
+}
+
+.smws-popup__col-code {
+  width: 64px;
+  font-variant-numeric: tabular-nums;
+  color: var(--smws-accent);
+  font-weight: 600;
+}
+
+.smws-popup__col-region {
+  width: 96px;
+  color: var(--smws-muted);
+}
+
+.smws-popup__empty {
+  padding: 24px 12px;
+  text-align: center;
+  color: var(--smws-muted);
+}
+
+.smws-popup__footer {
+  padding: 8px 12px;
+  border-top: 1px solid var(--smws-border);
+  text-align: center;
+}
+
+.smws-popup__footer a {
+  color: var(--smws-muted);
+  font-size: 11px;
+  text-decoration: none;
+}
+
+.smws-popup__footer a:hover {
+  text-decoration: underline;
+}
