@@ -771,6 +771,10 @@
     "region": "Lowland",
     "comment": "58 % corn, 21 % malted barley, 21 % unmalted rye"
   },
+  "G17": {
+    "distillery": "Starlaw",
+    "region": "Lowland"
+  },
   "B1": {
     "distillery": "Heaven Hill",
     "region": "Kentucky, USA"
