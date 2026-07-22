@@ -3,9 +3,19 @@
   "name": "SMWS Decoder JP",
   "description": "SMWS JPのサイト上で蒸留所名を表示するための非公式拡張機能です。本拡張機能に関するお問い合わせは、SMWS Japan様ではなく開発者までお願いいたします。",
   "homepage_url": "https://github.com/azmdz/SMWS-code-display",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
   "action": {
     "default_title": "SMWS Decoder JP",
-    "default_popup": "src/popup.html"
+    "default_popup": "src/popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
   },
   "content_scripts": [
     {
