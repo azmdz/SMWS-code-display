@@ -167,7 +167,7 @@
     "region": "Speyside"
   },
   "42": {
-    "distillery": "Tobermory, Ledaig",
+    "distillery": "Tobermory (Ledaig)",
     "region": "Islands",
     "comment": "Includes Ledaig (peated)"
   },
@@ -471,7 +471,7 @@
     "comment": "Inchmurrin is unpeated, Inchmoan is peated"
   },
   "113": {
-    "distillery": "Braeval (Braes of Glenlivet)",
+    "distillery": "Braeval (Braes)",
     "region": "Speyside"
   },
   "114": {
