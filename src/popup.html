@@ -1,44 +1,73 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="./popup.css" />
-  <title>SMWS 蒸留所リスト</title>
-</head>
-<body>
-  <header class="smws-popup__header">
-    <input
-      id="smws-search"
-      type="search"
-      class="smws-popup__search"
-      placeholder="コード・蒸留所名・地域で検索"
-      autocomplete="off"
-    />
-    <span id="smws-count" class="smws-popup__count"></span>
-  </header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./popup.css" />
+    <title>SMWS 蒸留所リスト</title>
+  </head>
+  <body>
+    <header class="smws-popup__header">
+      <div class="smws-popup__search-row">
+        <input
+          id="smws-search"
+          type="search"
+          class="smws-popup__search"
+          placeholder="コード・蒸留所名・地域で検索"
+          autocomplete="off"
+        />
+        <span id="smws-count" class="smws-popup__count"></span>
+      </div>
+      <div class="smws-popup__filter-row">
+        <select id="smws-type" class="smws-popup__select">
+          <option value="">Type (All)</option>
+        </select>
+        <button
+          id="smws-type-clear"
+          class="smws-popup__filter-clear"
+          aria-label="クリア"
+          disabled
+        >
+          ×
+        </button>
+        <select id="smws-region" class="smws-popup__select">
+          <option value="">Region (All)</option>
+        </select>
+        <button
+          id="smws-region-clear"
+          class="smws-popup__filter-clear"
+          aria-label="クリア"
+          disabled
+        >
+          ×
+        </button>
+      </div>
+    </header>
 
-  <table class="smws-popup__table">
-    <thead>
-      <tr>
-        <th class="smws-popup__col-code">コード</th>
-        <th class="smws-popup__col-name">蒸留所</th>
-        <th class="smws-popup__col-region">地域</th>
-      </tr>
-    </thead>
-    <tbody id="smws-tbody"></tbody>
-  </table>
+    <table class="smws-popup__table">
+      <thead>
+        <tr>
+          <th class="smws-popup__col-code">コード</th>
+          <th class="smws-popup__col-name">蒸留所</th>
+          <th class="smws-popup__col-region">地域</th>
+        </tr>
+      </thead>
+      <tbody id="smws-tbody"></tbody>
+    </table>
 
-  <p id="smws-empty" class="smws-popup__empty" hidden>該当する蒸留所がありません</p>
+    <p id="smws-empty" class="smws-popup__empty" hidden>
+      該当する蒸留所がありません
+    </p>
 
-  <footer class="smws-popup__footer">
-    <a
-      href="https://github.com/azmdz/SMWS-code-display"
-      target="_blank"
-      rel="noopener"
-    >SMWS Decoder JP（非公式）</a>
-  </footer>
+    <footer class="smws-popup__footer">
+      <a
+        href="https://chromewebstore.google.com/detail/smws-decoder-jp/ibglgjkokeogkjnkcnlofgmncicmfkbh"
+        target="_blank"
+        rel="noopener"
+        >SMWS Decoder JP（非公式）</a
+      >
+    </footer>
 
-  <script type="module" src="./popup.js"></script>
-</body>
+    <script type="module" src="./popup.js"></script>
+  </body>
 </html>
