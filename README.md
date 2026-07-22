@@ -13,17 +13,18 @@ SMWS JPのサイト上で蒸留所名を表示するための非公式拡張機�
 
 ## スクリーンショット
 
-### 蒸留所コード一覧
-
-![拡張機能アイコンから蒸留所コード一覧を表示している画面](public/images/code_view.png)
-
-### 商品一覧
-
-![商品一覧で蒸留所名を表示している画面](public/images/list_view.jpg)
-
-### 商品詳細
-
-![商品詳細で蒸留所名を表示している画面](public/images/detail_view.jpg)
+<table>
+  <tr>
+    <th>蒸留所コード一覧</th>
+    <th>商品一覧</th>
+    <th>商品詳細</th>
+  </tr>
+  <tr>
+    <td><img src="public/images/code_view.png" alt="拡張機能アイコンから蒸留所コード一覧を表示している画面"></td>
+    <td><img src="public/images/list_view.jpg" alt="商品一覧で蒸留所名を表示している画面"></td>
+    <td><img src="public/images/detail_view.jpg" alt="商品詳細で蒸留所名を表示している画面"></td>
+  </tr>
+</table>
 
 ## インストール
 
